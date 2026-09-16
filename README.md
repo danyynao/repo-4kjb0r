@@ -1,8 +1,10 @@
 16-Sep-2026
 
-<!-- notify 1/2 · BktsKXR1 -->
-## Notification 1/2
-Round: Round 1
-To: aramos@cityofdelrio.com, kdnorris@lovenorris.com
-At: 2026-09-16 15:50:56
-Id: BktsKXR1
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: beckywall@verizon.com, lauren.locke@wellsfargo.com
+At: 2026-09-16 15:51:04
+Id: du4OqRTo
